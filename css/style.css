@@ -14600,11 +14600,12 @@ input.cart-plus-minus-box {
 /*# sourceMappingURL=style.css.map */
 
 
-@media(max-width: 540px){
+@media(max-width: 560px){
   .centerSet{
     text-align: center;
-    width: 90%;
+    width: 85%;
     margin: auto;
+    zoom: 1.1;
   }
 
   .mygap{
