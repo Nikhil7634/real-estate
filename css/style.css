@@ -14598,3 +14598,16 @@ input.cart-plus-minus-box {
 ---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+
+@media(max-width: 540px){
+  .centerSet{
+    text-align: center;
+    width: 90%;
+    margin: auto;
+  }
+
+  .mygap{
+    padding-bottom: 20px !important;
+  }
+}
