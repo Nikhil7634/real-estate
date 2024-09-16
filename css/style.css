@@ -14612,3 +14612,19 @@ input.cart-plus-minus-box {
     padding-bottom: 20px !important;
   }
 }
+
+.whatsapp{
+  position: fixed;
+  bottom: 5%;
+  left: 5%;
+  z-index: 10000;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background: white;
+  transform: rotate(45deg);
+  padding: 10px;
+}
+.whatsapp a img{
+  transform: rotate(-45deg) scale(0.9);
+ 
+}
